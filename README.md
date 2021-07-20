@@ -4,7 +4,7 @@
 
 1. Clone this repo using:
   ```shell
-  $ git clone https://github.com/beks2995/react-redux-boilerplate.git
+  $ git clone https://github.com/maxbirimkulov/react-redux-boilerplate.git
   ```
 
 2. To install dependencies and clean the git repo run:
